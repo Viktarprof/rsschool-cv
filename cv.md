@@ -27,3 +27,37 @@ Marketing department specialist
 Maintaining a profile and creating content on social networks. Implementing paid advertising campaigns. Market analysis, reporting activities, planning marketing events.  
 
 ____________________________________________
+
+## 🎓 Education
+**TelRan Front-end PRO**, September 2022 — June 2023
+Learned to create the front-end of websites, worked with HTML, CSS, and JavaScript, as well as developed projects using React and Redux. Within the course, worked with databases, learned SQL and mongoDB. Mastered principles of product development in companies and organizing teamwork. Got familiar with agile work methodologies such as Agile and Scrum.
+
+**LLC 'Educational Center of the High Technologies Park' Functional Testing**, 2017
+Studied the process of software testing performed manually. Modeled various testing scenarios and documented any program behavior that deviated from the expected result.
+
+
+**Yanka Kupala State University of Grodno Specialist in Tourism and Hospitality**, September 2008 — June 2013
+Studied the profession in the field of tourism and service
+
+____________________________________________
+
+## 🛠 Skills & Expertise
+**Programming languages:** JavaScript  
+**Frameworks:** React, Redux 
+**Tools:** Git, Docker, Figma  
+
+____________________________________________
+
+## 📂 Projects
+**Garden** — [Link](https://github.com/Viktarprof/Garden_Project)  
+- This project is my diploma project in which I applied a set of tools related to React to create a unique and functional website. Using libraries and technologies such as React, React DOM, React Hook Form, React Icons, React Image Zoom, React Redux, React Router DOM, React Scroll, Redux, Redux Thunk, useEffect, and useState, I developed a responsive page with convenient navigation. The result is a website that stands out with its unique design, adaptability to different devices, and user-friendly navigation. This project showcases my React development skills and my ability to create useful and appealing web applications.  
+
+**Cart Redux** — [Link](https://viktarprof.github.io/Cart_redux/)  
+- Thanks to the use of the React framework and Redux library, this application has achieved high flexibility in state management. They provide a convenient mechanism for storing and processing data, which allows creating a scalable application with a rich user interface and easy state management
+
+____________________________________________
+
+## 🌐 Language Skills
+- Russian — native speaker  
+- Polish  — B1 
+- English — A1   
