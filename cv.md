@@ -48,6 +48,31 @@ ____________________________________________
 
 ____________________________________________
 
+## Example of my code
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  })
+  useEffect(() => {
+    document.title = 'Garden: ' + title;
+  }, [title]);
+
+  products = products.filter((el) => el.showProductsSale && el.rangeVisible);
+
+  return (
+    <div className={s.categoryListProduct}>
+      <h2>{title}</h2>
+      <Filters 
+        showCheckbox={true}
+        location={location}
+      />
+      <div className={s.categoryContainer}>
+        { products.length === 0 ? <p className="productsResult">Products not found </p> : products.map((el) => <ProductItem key={el.id} product={el}/>)}
+      </div>
+    </div>
+  );
+
+___________________________________________
+
 ## 📂 Projects
 **Garden** — [Link](https://github.com/Viktarprof/Garden_Project)  
 - This project is my diploma project in which I applied a set of tools related to React to create a unique and functional website. Using libraries and technologies such as React, React DOM, React Hook Form, React Icons, React Image Zoom, React Redux, React Router DOM, React Scroll, Redux, Redux Thunk, useEffect, and useState, I developed a responsive page with convenient navigation. The result is a website that stands out with its unique design, adaptability to different devices, and user-friendly navigation. This project showcases my React development skills and my ability to create useful and appealing web applications.  
